@@ -1,6 +1,6 @@
 import streamlit as st
 from PIL import Image
-import opencv-python-headless as cv2
+import cv2
 import numpy as np
 
 # Constants.
